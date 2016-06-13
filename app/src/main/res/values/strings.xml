@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NaturaVendas - Beta</string>
+    <string name="action_atualizar">Atualizar</string>
+    <string name="action_novo">Novo</string>
+    <string name="title_activity_produto">ProdutoActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tbl_produto">
+        CREATE TABLE IF NOT EXISTS Produto (
+            Id INTEGER NOT NULL,
+            Nome NVARCHAR(50) NOT NULL,
+            Valor DECIMAL(10,2),
+            PRIMARY KEY(Id)
+        );
+    </string>
+
+    <string name="tbl_pedido">
+        CREATE TABLE IF NOT EXISTS Pedido (
+            Id INTEGER NOT NULL,
+            IdCliente INTEGER NOT NULL,
+            Total DECIMAL(10,2),
+            PRIMARY KEY(Id, IdCliente)
+        );
+    </string>
+
+    <string name="tbl_item_pedido">
+        CREATE TABLE IF NOT EXISTS ItemPedido (
+            Id INTEGER NOT NULL,
+            IdPedido INTEGER NOT NULL,
+            IdProduto INTEGER,
+            Quantidade INTEGER,
+            Total DECIMAL(10,2),
+            PRIMARY KEY(Id)
+        );
+    </string>
+
+    <string name="tbl_cliente">
+        CREATE TABLE IF NOT EXISTS Cliente (
+            Id INTEGER NOT NULL,
+            Nome NVARCHAR(50),
+            PRIMARY KEY(Id)
+        );
+    </string>
+
+</resources>

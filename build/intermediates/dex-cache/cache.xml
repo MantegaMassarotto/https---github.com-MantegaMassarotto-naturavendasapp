@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics-core\2.3.9\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6bcf11222c8dd57b4ddf4da06fa15c8fc3f903dd">
+        <dex dex="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-crashlytics-core-2.3.9_9c51c1f31ccde0b1c7a0a5d38497af412fcf97e1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\answers\1.3.7\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4711b6bd1e41291912e98c23954cb3d11ca36bd5">
+        <dex dex="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-answers-1.3.7_8803b0ca8fa6b7815b7a50011c214084df1d7a5e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Murillo\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.3.2\559b70ac8a0d5cad611da4223137a920147201ba\jackson-core-2.3.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="559b70ac8a0d5cad611da4223137a920147201ba">
+        <dex dex="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.3.2_19dbcd438cd557eca85e1c5386aec67f0afccb85\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Murillo\.gradle\caches\modules-2\files-2.1\org.roboguice\roboguice\3.0.1\24e814f35d5cc28eaa7e9f07a50ea69deeb2b544\roboguice-3.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="24e814f35d5cc28eaa7e9f07a50ea69deeb2b544">
+        <dex dex="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\roboguice-3.0.1_36ae0139cc8e3cf9f99e56c8f5f7a37113bfc205\classes.dex" />
+    </item>
+    <item
+        jar="D:\android adt\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_eaac5be4783ce2c0c4118c5b2520d69f5b14651c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="384a930e8b34cd84ca3716a9a0827fcb06cb3398">
+        <dex dex="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0d65b804b0e3992da76f9e55ac302e74c1895f1f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_f752317bddcca0bf22ccc3a76e06423a2b349ed7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_edbdbccf2b4b47f645f391380c725cd1a22097d7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Murillo\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.3.0\f5e853a20b60758922453d56f9ae1e64af5cb3da\jackson-annotations-2.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f5e853a20b60758922453d56f9ae1e64af5cb3da">
+        <dex dex="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.3.0_3e0a7eaf3d7c983158f712033cba9019299cce83\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Murillo\.gradle\caches\modules-2\files-2.1\org.springframework.android\spring-android-core\1.0.1.RELEASE\e68f0e8e4b636ee30c4de58953be38d9b72a5e3b\spring-android-core-1.0.1.RELEASE.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e68f0e8e4b636ee30c4de58953be38d9b72a5e3b">
+        <dex dex="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\spring-android-core-1.0.1.RELEASE_d058948fd4cd4b0985fead52bf89c78a3077d5a0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.11\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9505232840ada5bc281f012c9798a6e49900d4ea">
+        <dex dex="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.fabric.sdk.android-fabric-1.3.11_cfd0e2940f49f770824eeedd266955c98be62432\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Murillo\.gradle\caches\modules-2\files-2.1\org.springframework.android\spring-android-rest-template\1.0.1.RELEASE\e132d929bd181941f79b0d63edafb8a86ae6fd33\spring-android-rest-template-1.0.1.RELEASE.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e132d929bd181941f79b0d63edafb8a86ae6fd33">
+        <dex dex="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\spring-android-rest-template-1.0.1.RELEASE_3d64f70a08c3e498c76aecc37c99a9d905d46667\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\beta\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="557bcc987cc2438e5162476bc8c953a37b683fb9">
+        <dex dex="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-beta-1.1.5_6acbb0b9adbfe5f2335ac167cb0f1db8b1411fdb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Murillo\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.3.2\c75edc740a6d8cb1cef6fa82fa594e0bce561916\jackson-databind-2.3.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c75edc740a6d8cb1cef6fa82fa594e0bce561916">
+        <dex dex="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.3.2_1bd5f72a424577dd40633d48f3f85085d43f62a2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_2ad3923d1a71e3a8d55d526a60e67c63fb1b5d50\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_eb5ab376746b9a9668fba8dc5b20e45e5cb3a664\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_ac877a0c205ea6c30d50aeb5b97a1112824b75e0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_2ac3da341a3115660806e49ad77bed95783be087\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_8ed3daaa56173929f22749ea6a99eb41e66ab06b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="994eeaf6711b45e2b6c3f41bd3dfe0a0c92c98ba">
+        <dex dex="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6c88bb9017a910f0e3c3b6d100e8ea31b3aa62d1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.5.6\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cb73560edb89cb7afe1d0d5455595c27866af7c6">
+        <dex dex="C:\Users\Murillo\Documents\NaturaApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-crashlytics-2.5.6_54b5fcaa97eb00edc4a98c1d624a2de79b073a5d\classes.dex" />
+    </item>
+
+</items>
